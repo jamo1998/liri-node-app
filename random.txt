@@ -8,3 +8,283 @@ spotify-this-song,"I Want it That Way"
    * Language of the movie.
    * Plot of the movie.
    * Actors in the movie.
+**********SONG INFO*********
+0
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+1
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+2
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+3
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+4
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+5
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+6
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+7
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+8
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+9
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+10
+song name: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+preview song: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+*****************************
+**********SONG INFO*********
+11
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+12
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: A Rush Of Blood To The Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+13
+song name: The Other Side (with MAX & Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/a3c926a4a3a8876a61b09cd54ea343e876092321?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: The Greatest Showman: Reimagined
+artist(s): MAX
+*****************************
+**********SONG INFO*********
+14
+song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+15
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+16
+song name: The Light
+preview song: null
+album: MIH-TY
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+17
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG INFO*********
+18
+song name: Down To Fuck (feat. YG, Ty Dolla $ign, Jeremih)
+preview song: https://p.scdn.co/mp3-preview/9c69bc8673b0babe31f2d75c6579d368d2093531?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Down To Fuck (feat. YG, Ty Dolla $ign, Jeremih)
+artist(s): The Game
+*****************************
+**********SONG INFO*********
+19
+song name: Blessings
+preview song: https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Coloring Book
+artist(s): Chance the Rapper
+*****************************
+**********SONG INFO*********
+0
+song name: SICKO MODE
+preview song: https://p.scdn.co/mp3-preview/1c3c01c64477b356e28a652b6447f4ef96689a71?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: ASTROWORLD
+artist(s): Travis Scott
+*****************************
+**********SONG INFO*********
+1
+song name: SICKO MODE - Skrillex Remix
+preview song: https://p.scdn.co/mp3-preview/0d98be4f46397a308cbddd080eb98d93dadb4ee3?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: SICKO MODE (Skrillex Remix)
+artist(s): Travis Scott
+*****************************
+**********SONG INFO*********
+2
+song name: Sicko Mode - Piano Acoustic
+preview song: https://p.scdn.co/mp3-preview/9ecf28d43e26d3e033c105ff7dfc9bec2491e953?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Sicko Mode (Piano Acoustic)
+artist(s): Tyler Ward
+*****************************
+**********SONG INFO*********
+3
+song name: Sicko Mode
+preview song: https://p.scdn.co/mp3-preview/17e5c04dbd7dd7dcad589b5a433f650cbe64f349?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Sicko Mode
+artist(s): Overspace
+*****************************
+**********SONG INFO*********
+4
+song name: Sicko Mode Freestyle
+preview song: https://p.scdn.co/mp3-preview/a6ba6b4d04cdf1410c4e5c24c6217b4cab6a6a8a?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Sicko Mode Freestyle
+artist(s): Cody Ray
+*****************************
+**********SONG INFO*********
+5
+song name: SICKO MODE - Instrumental
+preview song: https://p.scdn.co/mp3-preview/926937a5de4bb02eba421be2ec16622a6a17cbf0?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: SICKO MODE
+artist(s): DJ Boomin
+*****************************
+**********SONG INFO*********
+6
+song name: SICKO MODE
+preview song: https://p.scdn.co/mp3-preview/292cafba7b6a6f3e244c00a3e7637449f8798b8c?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: SICKO MODE
+artist(s): Andrew Foy
+*****************************
+**********SONG INFO*********
+7
+song name: Sicko Mode - Radio Edit
+preview song: https://p.scdn.co/mp3-preview/3c3116b05a657134f65c717d41e6440dc121fd75?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Sicko Mode
+artist(s): Overspace
+*****************************
+**********SONG INFO*********
+8
+song name: Sicko Mode - Instrumental
+preview song: https://p.scdn.co/mp3-preview/552b9857c970d53ae31c64316da620a5472a2a0d?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Sicko Mode (Instrumental)
+artist(s): Cardo Grandz
+*****************************
+**********SONG INFO*********
+9
+song name: Sicko Mode
+preview song: https://p.scdn.co/mp3-preview/ea6ef54dc5342daf558c3c6153e2d330a8d90e2c?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Sicko Mode
+artist(s): Alexandra DeMattia
+*****************************
+**********SONG INFO*********
+10
+song name: SICKO MODE X 10
+preview song: https://p.scdn.co/mp3-preview/dc83da203f4b5f793f2095f66f2558483bec7c71?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: SICKO MODE X 10
+artist(s): COSMIC
+*****************************
+**********SONG INFO*********
+11
+song name: Sicko Mode Freestyle
+preview song: https://p.scdn.co/mp3-preview/021321ff8fe2d1461252dfe0631a62ff4a715b77?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Sicko Mode Freestyle
+artist(s): Lady XO
+*****************************
+**********SONG INFO*********
+12
+song name: Sicko Mode
+preview song: https://p.scdn.co/mp3-preview/7289468cbca8dc50eecb951998d42cebd61b22d3?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Sicko Mode
+artist(s): Trapp Tarell
+*****************************
+**********SONG INFO*********
+13
+song name: SICKO MODE
+preview song: https://p.scdn.co/mp3-preview/81c87cda56646e6da9d343c3fa22f63df7bc801c?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: SICKO MODE
+artist(s): DJ Slam
+*****************************
+**********SONG INFO*********
+14
+song name: Sicko Mode - Remix
+preview song: https://p.scdn.co/mp3-preview/349a43759d56ab2e810af017dc3088b4cfe67b17?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Sicko Mode (Remix)
+artist(s): Feeks
+*****************************
+**********SONG INFO*********
+15
+song name: Sicko Mode Deep
+preview song: https://p.scdn.co/mp3-preview/2e165b64462bc3a6149eae8257938345b1e04e97?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Sicko Mode Deep
+artist(s): DJ Tray
+*****************************
+**********SONG INFO*********
+16
+song name: Sicko Mode - Instrumental
+preview song: https://p.scdn.co/mp3-preview/552b9857c970d53ae31c64316da620a5472a2a0d?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: The Remake
+artist(s): Cardo Grandz
+*****************************
+**********SONG INFO*********
+17
+song name: Sicko Mode
+preview song: https://p.scdn.co/mp3-preview/86fef68c23e857983d7a4dd0418b65ebd4a1e19d?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Sicko Mode
+artist(s): Hi-Rez
+*****************************
+**********SONG INFO*********
+18
+song name: Sicko Mode
+preview song: https://p.scdn.co/mp3-preview/f72373f9fed1df61a6f445ab6a7fafb8035109e4?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: Skyline
+artist(s): ChillHop Addiction
+*****************************
+**********SONG INFO*********
+19
+song name: Sicko Mode #Screwed
+preview song: https://p.scdn.co/mp3-preview/6410d19cf7b7bcecb1c879c7be8136f81b73ae93?cid=107c2a9af6ea4fbbabd7d78123c9d48b
+album: 28 Grams, Vol. 32 #Screwed
+artist(s): Pollie Pop
+*****************************
